@@ -11,10 +11,10 @@ header{
     text-align: center;
 }
 
-main{
-
-}
-
 footer{
-    background-color:#0f9c02
+    background-color:#0f9c02;
+    text-align: center;
+}
+main{
+    background:rgb(251, 238, 0)
 }
